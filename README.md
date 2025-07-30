@@ -1,4 +1,8 @@
-# MedGemma
+## Get started
+
+This is a simple notebook for medgemma use if your GPU doesn't have enough VRAM to fit the whole model into it. Both system and video ram is used to run the model. 
+
+## About MedGemma
 
 MedGemma is a collection of [Gemma 3](https://ai.google.dev/gemma/docs/core)
 variants that are trained for performance on medical text and image
@@ -19,28 +23,6 @@ benchmark datasets and curated datasets, with a focus on expert human
 evaluations for tasks. Developers can fine tune MedGemma variants for improved
 performance. Please read more about our work in our manuscript [link coming] and
 consult our Intended Use Statement for more details.
-
-## Get started
-
-*   Read our
-    [developer documentation](https://developers.google.com/health-ai-developer-foundations/medgemma/get-started)
-    to see the full range of next steps available, including learning more about
-    the model through its
-    [model card](https://developers.google.com/health-ai-developer-foundations/medgemma/model-card).
-
-*   Explore this repository, which contains [notebooks](./notebooks) for using
-    the model.
-
-*   Visit the model on
-    [Hugging Face](https://huggingface.co/models?other=medgemma) or
-    [Model Garden](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/medgemma).
-
-## Contributing
-
-We are open to bug reports, pull requests (PR), and other contributions. See
-[CONTRIBUTING](CONTRIBUTING.md) and
-[community guidelines](https://developers.google.com/health-ai-developer-foundations/community-guidelines)
-for details.
 
 ## License
 
